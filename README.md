@@ -11,26 +11,26 @@ This repository is the front end part of Rubisen (POC), you can access to the ba
 # Usage
 
 ###### Project setup
-```bash
+```console
 yarn install
 ```
 
 ###### Compiles and hot-reloads for development
-```bash
+```console
 yarn run serve
 ```
 
 ###### Compiles and minifies for production
-```bash
+```console
 yarn run build
 ```
 
 ###### Run tests
-```bash
+```console
 yarn run test
 ```
 
 ###### Lints and fixes files
-```bash
+```console
 yarn run lint
 ```
