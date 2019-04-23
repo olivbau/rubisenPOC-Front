@@ -2,15 +2,16 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit.<br>
-      Provident voluptate, laborum voluptatum itaque
-      labore architecto quo omnis dolores deserunt.<br>
-      Pariatur magni quaerat suscipit quis nesciunt tenetur iure aperiam cupiditate laborum. <br>
+      Ce site web permet à un utilisateur de se créer
+      un compte avec pour mot de passe une séquence qui composera
+      avec le cube Giiker.<br>L’authentification d’un utilisateur
+      en plus de vérifier la séquence (mot de passe) choisit
+      par l’utilisateur, vérifie que l’éxécution de la séquence
+      correspond à celle de l’utilisateur
+      (grâce à un entrainnement réalisé par l’utilisateur à l’inscription).
     </p>
-    <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h3>
     <ul>
-      <li><a href="#" target="_blank" rel="noopener">lorem</a></li>
-      <li><a href="#" target="_blank" rel="noopener">ipsum</a></li>
+      <li><a href="#" target="_blank" rel="noopener">Github</a></li>
     </ul>
   </div>
 </template>
